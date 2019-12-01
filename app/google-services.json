@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "650464539773",
+    "firebase_url": "https://eatwithus-28ba7.firebaseio.com",
+    "project_id": "eatwithus-28ba7",
+    "storage_bucket": "eatwithus-28ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650464539773:android:9431802c4971387b696d14",
+        "android_client_info": {
+          "package_name": "fooddelivery.wipada.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650464539773-fn2al9a6ua34mtf6tvkh6r8bsbobdu8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fooddelivery.wipada.fooddelivery",
+            "certificate_hash": "b533f204a60f757997c99d94539b59b9355e6030"
+          }
+        },
+        {
+          "client_id": "650464539773-k1a6c7jtquho18pi2qv6k3cbi85ko4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJmv28BseioqEBRjntRjkS2lzzLzONhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650464539773-k1a6c7jtquho18pi2qv6k3cbi85ko4d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650464539773:android:08f1eaf7aa0fb86a696d14",
+        "android_client_info": {
+          "package_name": "fooddelivery.wipada.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650464539773-4e4bkhi3avgjfmpp77ps96bm9auft48l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fooddelivery.wipada.myapplication",
+            "certificate_hash": "b533f204a60f757997c99d94539b59b9355e6030"
+          }
+        },
+        {
+          "client_id": "650464539773-k1a6c7jtquho18pi2qv6k3cbi85ko4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJmv28BseioqEBRjntRjkS2lzzLzONhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650464539773-k1a6c7jtquho18pi2qv6k3cbi85ko4d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
